@@ -1,22 +1,22 @@
 # Investigate TMDb movie dataset
 
-##Project Overview
+## Project Overview
 In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
-##What do you need to install?
+## What do you need to install?
 You will need an installation of Python, plus the following libraries:
 
-*pandas
-*NumPy
-*Matplotlib
-*csv
+* pandas
+* NumPy
+* Matplotlib
+* csv
 
-##Why this Project?
+## Why this Project?
 In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
 
 You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 
-##What will I learn?
+## What will I learn?
 After completing the project, you will:
 
 Know all the steps involved in a typical data analysis process
